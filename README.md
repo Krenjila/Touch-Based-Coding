@@ -1,6 +1,6 @@
 # Touch-Based Coding Prototype
 
-This project is a research prototype of a gesture-driven coding environment , inspired by Scratch but designed for intuitive, touch-based program creation.
+This project is a research prototype of a coding environment , inspired by Scratch but designed for intuitive, touch-based program creation.
 
 # Features
 - Touch-based coding with HTML/JS prototypes
